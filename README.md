@@ -20,7 +20,7 @@ There should be the possibility of applying discounts based on two policies:
 ### Getting started  ####
 Clone this repository from  Github to a directory of your choice
 ```
-git clone 
+git clone https://github.com/pgobi/calculating-discounts.git
 ```
 Run the following command in the root directory of the backend:
 ```
